@@ -76,7 +76,7 @@ Or
 ```
 localhost:8000/admin
 ```
-## TO run the test cases
+## To run the test cases
 To run the unit test cases we have to call specific case at once. Use the command given below:
 ```
 python manage.py test inventory.tests.URLTests.homepage 
